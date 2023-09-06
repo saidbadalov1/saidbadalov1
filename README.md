@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Said Badalov
 - 👀 I’m interested in frontend technology!
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me seidbedelov00@icloud.com
 
 <!---
